@@ -1,0 +1,8 @@
+1. node js installation
+https://nodejs.org/en/download
+
+2. setup environment for developing react
+react installation
+
+cmd- command
+npm install react react-dom
